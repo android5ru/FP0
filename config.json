@@ -1,0 +1,8 @@
+{
+  "storageFile": "vault.dat",
+  "logFile": "vault.log",
+  "automaticLockMinutes": 1,
+  "maximumUnlockAttempts": 3,
+  "defaultSort": "service",
+  "confirmBeforeDelete": true
+}
